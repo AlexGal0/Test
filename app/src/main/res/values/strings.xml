@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Taller</string>
+    <string name="figure_question">¿Que figura es?</string>
+    <string name="color_question">¿Que color se muestra?</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_game">Iniciar Juego</string>
+    <string name="number_question">Numero de Preguntas</string>
+    <string name="next_question">Siguente Pregunta</string>
+</resources>
